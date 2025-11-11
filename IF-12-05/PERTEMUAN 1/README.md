@@ -14,7 +14,7 @@ Berikut adalah kode program untuk [jelaskan singkat tujuan kode, misal: "program
 
 (Silakan ganti bahasa dan kode di bawah ini sesuai tugas Anda)
 
-/* * File: main.cpp
+```File: main.cpp
  * Author: [Nama Anda]
  * NIM: [NIM Anda]
  * Deskripsi: Program untuk menentukan apakah sebuah bilangan
@@ -48,7 +48,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 2. Penjelasan Kode
 
@@ -83,7 +83,7 @@ Memanggil fungsi cekGanjilGenap() dan mengirimkan inputAngka sebagai argumennya.
 3. Output Program
 
 Berikut adalah hasil eksekusi program (output) ketika dijalankan.
-
+```
 Contoh Output 1 (Input Bilangan Genap):
 
 ===== Program Pengecek Ganjil/Genap =====
@@ -99,7 +99,7 @@ Masukkan sebuah bilangan bulat: 77
 
 
 (Tips: Anda juga bisa menyertakan screenshot/gambar output di bagian ini jika diperlukan, seperti ini:)
-``
+```
 
 4. Penjelasan Lanjutan (Analisis Output)
 
